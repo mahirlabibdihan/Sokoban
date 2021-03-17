@@ -1,0 +1,33 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Sokoban18710.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  cuboJogo.c
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(41,49): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(139,24): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(139,33): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(145,19): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(145,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(145,31): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(155,24): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(155,33): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(168,32): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(168,49): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(168,66): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(190,24): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(190,33): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(191,16): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(191,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(191,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(225,26): warning C4022: 'iText': pointer mismatch for actual parameter 4
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(227,26): warning C4022: 'iText': pointer mismatch for actual parameter 4
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(229,26): warning C4022: 'iText': pointer mismatch for actual parameter 4
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(233,17): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(233,23): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(234,15): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(234,20): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(234,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(241,16): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(241,22): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(241,28): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(248,47): warning C4022: 'iText': pointer mismatch for actual parameter 4
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(253,72): warning C4022: 'iText': pointer mismatch for actual parameter 4
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(261,23): warning C4022: 'iText': pointer mismatch for actual parameter 4
+  Sokoban18710.vcxproj -> D:\Github\Sokoban18710\x64\Debug\Sokoban.exe

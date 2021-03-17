@@ -1,0 +1,36 @@
+﻿  cuboJogo.c
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(186,17): warning C4305: '*=': truncation from 'double' to 'float'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(191,17): warning C4305: '/=': truncation from 'double' to 'float'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(246,25): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(246,34): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(256,19): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(256,24): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(256,29): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(266,24): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(266,33): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(303,25): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(303,34): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(305,17): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(305,22): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(305,27): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(351,17): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(351,23): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(352,15): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(352,20): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(352,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(373,16): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(373,22): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(373,28): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(382,15): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(382,20): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(382,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(338,8): warning C4101: 'j': unreferenced local variable
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(338,6): warning C4101: 'i': unreferenced local variable
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(540,10): warning C4101: 'j': unreferenced local variable
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(540,7): warning C4101: 'i': unreferenced local variable
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(765,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(766,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(764,6): warning C4101: 'i': unreferenced local variable
+D:\Github\Sokoban18710\Sokoban18710\cuboJogo.c(799,19): warning C4013: 'glutKeyaCubosFunc' undefined; assuming extern returning int
+cuboJogo.obj : error LNK2019: unresolved external symbol _glutKeyaCubosFunc referenced in function _main
+D:\Github\Sokoban18710\Debug\Sokoban18710.exe : fatal error LNK1120: 1 unresolved externals
